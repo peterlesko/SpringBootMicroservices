@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/MovieCatalogServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/model/CatalogueItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/resource/MovieCatalogResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-data-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-info-service/src/main/java/com/plesk/movieinfoservice/Movie/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-info-service/src/main/java/com/plesk/movieinfoservice/models/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-info-service/src/main/java/com/plesk/movieinfoservice/resources/MovieResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-info-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
