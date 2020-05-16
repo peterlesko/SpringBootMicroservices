@@ -1,4 +1,4 @@
-package com.plesk.moviecatalogservice.model;
+package com.plesk.moviecatalogservice.models;
 
 public class CatalogueItem {
     private String name;

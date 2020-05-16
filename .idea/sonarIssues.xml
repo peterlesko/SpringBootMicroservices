@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
           <value>
             <set />
@@ -18,12 +23,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/models/CatalogueItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/models/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/models/Rating.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/resource/MovieCatalogResource.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/resources/MovieCatalogResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/movie-catalog-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-data-service/src/main/java/com/plesk/moviedataservice/MovieDataServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-data-service/src/main/java/com/plesk/moviedataservice/models/Rating.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-data-service/src/main/java/com/plesk/moviedataservice/resources/RatingDataResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-data-service/src/main/java/com/plesk/moviedataservice/resources/RatingResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-data-service/src/main/java/com/plesk/moviedataservice/resources/RatingsResource.java">
           <value>
             <set />
           </value>

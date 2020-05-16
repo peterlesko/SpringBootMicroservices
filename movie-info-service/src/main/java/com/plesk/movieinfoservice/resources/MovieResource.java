@@ -13,4 +13,5 @@ public class MovieResource {
     public Movie getMovieInfo(@PathVariable ("movieId") String movieId) {
         return new Movie(movieId, "Test name");
     }
+
 }

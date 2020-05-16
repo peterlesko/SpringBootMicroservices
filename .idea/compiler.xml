@@ -6,18 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="movie-data-service" />
         <module name="movie-catalog-service" />
         <module name="movie-info-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="movie-catalog-service" target="11" />
+      <module name="movie-data-service" target="11" />
       <module name="movie-info-service" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="movie-catalog-service" options="-parameters" />
+      <module name="movie-data-service" options="-parameters" />
       <module name="movie-info-service" options="-parameters" />
     </option>
   </component>

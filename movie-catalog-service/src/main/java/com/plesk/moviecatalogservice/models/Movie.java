@@ -1,4 +1,4 @@
-package com.plesk.movieinfoservice.models;
+package com.plesk.moviecatalogservice.models;
 
 public class Movie {
     private String movieId;
@@ -28,3 +28,5 @@ public class Movie {
         this.name = name;
     }
 }
+
+
