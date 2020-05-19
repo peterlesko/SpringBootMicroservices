@@ -13,7 +13,22 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../SpringBootMicroservices/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/resources/MovieCatalogResource.java">
+        <entry key="$PROJECT_DIR$/discovery-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/discovery-server/src/main/java/com/plesk/discoveryserver/DiscoveryServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/discovery-server/src/main/java/io/javabrains/discoveryserver/DiscoveryServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/discovery-server/src/main/resources/application.properties">
           <value>
             <set />
           </value>
@@ -98,7 +113,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/movie-info-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/movie-info-service/src/main/java/com/plesk/movieinfoservice/Movie/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/movie-info-service/src/main/java/com/plesk/movieinfoservice/MovieInfoServiceApplication.java">
           <value>
             <set />
           </value>
@@ -114,6 +139,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/movie-info-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootMicroservices/movie-catalog-service/src/main/java/com/plesk/moviecatalogservice/resources/MovieCatalogResource.java">
           <value>
             <set />
           </value>
